@@ -1,14 +1,15 @@
 # Projet-7---API-dashboard-et-classification-de-risque-de-defaut-de-credit
 
 This repository includes:  
-- the notebook for the predictive model development, including: 
+- the notebook for the predictive model development: 
   - exploratory data analysis, 
   - data transformation, 
   - LGBM model optimisation based on a custom cost function,
   - local and global feature importances,
-  - data automatically pre-generated for the API and the dashboard.
-- an additionnal notebook for preliminary tests (various kernels tested for data transformation, target class balancing, models comparison
-
+  - data (charts, data tables) automatically pre-generated for the API and the dashboard.
+- an additionnal notebook for preliminary tests:
+  - various kernels tested for data transformation, 
+  - target class balancing.
 
 -------------------------
 
