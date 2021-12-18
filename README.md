@@ -10,6 +10,8 @@ This repository includes:
 - an additionnal notebook for preliminary tests:
   - various kernels tested for data transformation, 
   - target class balancing.
+- a powerpoint presentation support.
+- a methodology note.
 
 -------------------------
 
