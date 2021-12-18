@@ -7,7 +7,7 @@ This repository includes:
   - LGBM model optimisation based on a custom cost function,
   - local and global feature importances,
   - data (charts, data tables) automatically pre-generated for the API and the dashboard.
-- an additionnal notebook for preliminary tests:
+- an additionnal notebook with preliminary tests:
   - various kernels tested for data transformation, 
   - target class balancing.
 - a powerpoint presentation support.
