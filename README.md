@@ -1,5 +1,13 @@
-# Projet-7---API-dashboard-et-classification-de-risque-de-defaut-de-credit
+# Contexte
+Ce projet a été réalisé dans le cadre du parcours de [formation de Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist) d'OpenClassrooms.
 
+# Pitch du projet
+Au sein d'une société financière, vous allez développer et implémenter un modèle de scoring pour aider les équipes métiers à accorder un crédit à un client.
+
+# Mission
+[Enoncé.](https://github.com/JM-JO/OpenClassrooms-Projet-7---Modelisation-risque-defaut-de-credit---API---Dashboard/blob/main/Mission.pdf)
+
+# Résultat
 This repository includes:  
 - the notebook for the predictive model development: 
   - exploratory data analysis, 
@@ -10,8 +18,8 @@ This repository includes:
 - an additionnal notebook with preliminary tests:
   - various kernels tested for data transformation, 
   - target class balancing.
-- a powerpoint presentation support.
-- a methodology note.
+- a powerpoint [presentation support](https://github.com/JM-JO/OpenClassrooms-Projet-7---Modelisation-risque-defaut-de-credit---API---Dashboard/blob/main/Pr%C3%A9sentation.pdf).
+- a [methodology note](https://github.com/JM-JO/OpenClassrooms-Projet-7---Modelisation-risque-defaut-de-credit---API---Dashboard/blob/main/P7_02_Note_methodologique.pdf).
 
 -------------------------
 
