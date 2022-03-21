@@ -9,13 +9,13 @@ Au sein d'une société financière, vous allez développer et implémenter un m
 
 # Résultat
 This repository includes:  
-- the notebook for the predictive model development: 
+- the [notebook for the predictive model development](https://github.com/JM-JO/OpenClassrooms-Projet-7---Modelisation-risque-defaut-de-credit---API---Dashboard/blob/main/Notebook%20for%20the%20predictive%20model%20development.ipynb): 
   - exploratory data analysis, 
   - data transformation, 
   - LGBM model optimisation based on a custom cost function,
   - local and global feature importances,
   - data (charts, data tables) automatically pre-generated for the API and the dashboard.
-- an additionnal notebook with preliminary tests:
+- an [additionnal notebook with preliminary tests](https://github.com/JM-JO/OpenClassrooms-Projet-7---Modelisation-risque-defaut-de-credit---API---Dashboard/blob/main/Additionnal%20notebook%20with%20preliminary%20tests.ipynb):
   - various kernels tested for data transformation, 
   - target class balancing.
 - a powerpoint [presentation support](https://github.com/JM-JO/OpenClassrooms-Projet-7---Modelisation-risque-defaut-de-credit---API---Dashboard/blob/main/Pr%C3%A9sentation.pdf).
